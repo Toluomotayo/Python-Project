@@ -1,4 +1,4 @@
-# An Automatic File Sorter in File Explorer | BMI Calculator | 
+# An Automatic File Sorter in File Explorer | BMI Calculator | Web scraping and Pandas (Largest Companies in Africa by Revenue)
 
 # An Automatic File Sorter in File Explorer
 This project is an automatic file sorter created in Python. It organizes files in your file explorer into different folders based on their file types. The code is developed and tested using Jupyter Notebook.
@@ -18,7 +18,8 @@ BMI is a measure of body fat based on height and weight that applies to adult me
 + Enter your height in meters when prompted.
 + The script will calculate your BMI and print your BMI category.
 
-
+# Web scraping and Pandas (Largest Companies in Africa by Revenue)
+This project is a web scraping tool that extracts data from the Wikipedia page listing the largest companies in Africa by revenue. The data is then converted into a table using Pandas and exported to a CSV file for further analysis.
 
 ## Installation
 To run these projects, you must install Python and Jupyter Notebook on your system.
