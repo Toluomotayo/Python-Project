@@ -22,7 +22,7 @@ BMI measures body fat based on height and weight which applies to adult men and 
 This project is a web scraping tool that extracts data from the Wikipedia page listing the largest companies in Africa by revenue. The data is then converted into a table using Pandas and exported to a CSV file for further analysis.
 ## Requirements
 To run this script, you need the following Python libraries:
-+ BeautifulSoup4   + pandas   + requests
++ BeautifulSoup4, pandas, and requests
 ## How It Works
 + Web Scraping: The script uses requests to fetch the HTML content of the Wikipedia page.
 + Parsing HTML: It uses BeautifulSoup to parse the HTML and extract the relevant company information table.
