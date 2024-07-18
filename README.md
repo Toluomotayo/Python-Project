@@ -9,9 +9,9 @@ The Automatic File Sorter is a Python script that helps you keep your file explo
 + Run the Jupyter Notebook cells to execute the file sorter script.
 
 # BMI Calculator
-This simple BMI (Body Mass Index) calculator is written in Python. It calculates BMI using the user's weight in kilograms and height in meters. The code is developed and tested using Jupyter Notebook.
+This simple BMI (Body Mass Index) calculator is written in Python. It calculates BMI using the user's kilogram weight and meter height. The code is developed and tested using Jupyter Notebook.
 ## Introduction
-BMI is a measure of body fat based on height and weight that applies to adult men and women. This calculator will help you determine your BMI and classify it as underweight, normal weight, overweight, obese, severely obese, and morbidly obese.
+BMI measures body fat based on height and weight which applies to adult men and women. This calculator will help you determine your BMI and classify it as underweight, normal weight, overweight, obese, severely obese, and morbidly obese.
 ## Usage
 + Run the Jupyter Notebook cells to execute the BMI calculator.
 + Enter your weight in kilograms when prompted.
@@ -20,6 +20,14 @@ BMI is a measure of body fat based on height and weight that applies to adult me
 
 # Web scraping and Pandas (Largest Companies in Africa by Revenue)
 This project is a web scraping tool that extracts data from the Wikipedia page listing the largest companies in Africa by revenue. The data is then converted into a table using Pandas and exported to a CSV file for further analysis.
+## Requirements
+To run this script, you need the following Python libraries:
++ BeautifulSoup4   + pandas   + requests
+## How It Works
++ Web Scraping: The script uses requests to fetch the HTML content of the Wikipedia page.
++ Parsing HTML: It uses BeautifulSoup to parse the HTML and extract the relevant company information table.
++ Data Conversion: The extracted data is converted into a Pandas DataFrame for easy manipulation and analysis.
++ Exporting to CSV: Finally, the DataFrame is exported to a CSV file for storage and further use.
 
 ## Installation
 To run these projects, you must install Python and Jupyter Notebook on your system.
