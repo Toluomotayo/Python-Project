@@ -4,7 +4,7 @@
 This project is an automatic file sorter created in Python. It organizes files in your file explorer into different folders based on their file types. The code is developed and tested using Jupyter Notebook.
 ## Introduction
 The Automatic File Sorter is a Python script that helps you keep your file explorer organized by sorting files into folders based on their file extensions. This can be especially useful for keeping your downloads or desktop folder tidy.
-# Usage
+## Usage
 + Place the Python script in the directory you want to organize.
 + Run the Jupyter Notebook cells to execute the file sorter script.
 
